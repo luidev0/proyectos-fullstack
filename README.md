@@ -28,7 +28,7 @@ Proyectos de programación y diseño web fullstack hechos para clientes, portafo
 
 Aquí listaré los proyectos que vaya desarrollando. Podrás ver el proyecto en _Ver Live_ o el repositorio en _Ver repositorio_:
 
-- [✅] **Proyecto 01: Aplicativo de creación de notas usando pila MERN | **[Ver repositorio](https://github.com/luidev0/proyectos-fullstack/tree/main/mern-notas-app)**
+- [✅] **Proyecto 01: Aplicativo de creación de notas usando pila MERN** | **[Ver repositorio](https://github.com/luidev0/proyectos-fullstack/tree/main/mern-notas-app)**
 - [⌛] **Proyecto 02: En progreso...**
 
 ## <a name="contact">📜 Contáctame</a>
